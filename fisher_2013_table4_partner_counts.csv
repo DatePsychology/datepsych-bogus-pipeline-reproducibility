@@ -1,0 +1,5 @@
+sex,condition,n,mean_lifetime_partners,sd_lifetime_partners,source_location,source_doi
+Men,Non-pipeline,61,2.85,3.25,Table 4 number of sexual partners,https://doi.org/10.1007/s11199-013-0266-3
+Men,Bogus pipeline,69,1.96,2.66,Table 4 number of sexual partners,https://doi.org/10.1007/s11199-013-0266-3
+Women,Non-pipeline,78,2.70,3.18,Table 4 number of sexual partners,https://doi.org/10.1007/s11199-013-0266-3
+Women,Bogus pipeline,82,3.35,3.46,Table 4 number of sexual partners,https://doi.org/10.1007/s11199-013-0266-3

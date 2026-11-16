@@ -1,0 +1,7 @@
+sex,condition,mean_reported_partners,source_location,source_doi
+Men,Exposure threat,3.7,Partner-count summaries in study,https://doi.org/10.1080/00224490309552164
+Men,Anonymous,4.2,Partner-count summaries in study,https://doi.org/10.1080/00224490309552164
+Men,Bogus pipeline,4.0,Partner-count summaries in study,https://doi.org/10.1080/00224490309552164
+Women,Exposure threat,2.6,Partner-count summaries in study,https://doi.org/10.1080/00224490309552164
+Women,Anonymous,3.4,Partner-count summaries in study,https://doi.org/10.1080/00224490309552164
+Women,Bogus pipeline,4.4,Partner-count summaries in study,https://doi.org/10.1080/00224490309552164

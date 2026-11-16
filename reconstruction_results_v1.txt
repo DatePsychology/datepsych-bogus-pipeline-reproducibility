@@ -1,0 +1,48 @@
+BOGUS-PIPELINE RECONSTRUCTION CHECKS — v1
+Based on rounded published summaries; not on participant-level data.
+
+ALEXANDER & FISHER (2003): PUBLISHED PARTNER-COUNT MEANS
+  Men: exposure threat=3.7; anonymous=4.2; pipeline=4.0
+  Women: exposure threat=2.6; anonymous=3.4; pipeline=4.4
+  The paper's partner-count F<1 null result cannot be re-fitted from means alone.
+
+FISHER (2013): TABLE 4 MEANS AND APPROXIMATE *UNADJUSTED* t INTERVALS
+  Men   Non-pipeline   n=61 mean=2.85 SD=3.25 approx. 95% CI=[2.018, 3.682]
+  Men   Bogus pipeline n=69 mean=1.96 SD=2.66 approx. 95% CI=[1.321, 2.599]
+  Women Non-pipeline   n=78 mean=2.70 SD=3.18 approx. 95% CI=[1.983, 3.417]
+  Women Bogus pipeline n=82 mean=3.35 SD=3.46 approx. 95% CI=[2.590, 4.110]
+  Women change: +0.65; men change: -0.89; difference-in-differences: 1.54
+  Heuristic unadjusted independence/normal test of DID: SE=0.743, approx. two-sided p=0.0381 (NOT the paper's adjusted model)
+
+CHECKS OF THE PUBLISHED F STATISTICS (distribution tails only)
+  Fisher (2013) | Condition main effect (partners) | F=0.71 | recomputed p=0.400153 | reported 0.40
+  Fisher (2013) | Sex by condition interaction (partners) | F=4.57 | recomputed p=0.033390 | reported 0.033
+  Fisher (2013) | Sex difference within pipeline (simple effect) | F=6.94 | recomputed p=0.008891 | reported 0.009
+  Tourangeau et al. (1997) | Past-five-year partners (transformed) | F=4.01 | recomputed p=0.047859 | reported p<0.05
+  Tourangeau et al. (1997) | Lifetime partners (transformed) | F=4.42 | recomputed p=0.037958 | reported p<0.05
+  The underlying adjusted ANOVAs cannot be re-fitted without original records.
+
+TOURANGEAU ET AL. (1997): PUBLISHED RAW PARTNER-COUNT MEANS
+  Past year        control=1.28, pipeline=1.89, difference=+0.61, ratio increase=+47.7%
+  Past five years  control=3.30, pipeline=5.89, difference=+2.59, ratio increase=+78.5%
+  Lifetime         control=7.23, pipeline=13.43, difference=+6.20, ratio increase=+85.8%
+  Published transformed/adjusted results are different from tests on raw plotted means.
+
+STRANG & PETERSON: RECONSTRUCTED 2 x 2 COMPARISONS
+  SES-LFP assault tactics: standard=8.6%, pipeline=37.9%, odds ratio=6.5185, risk ratio=4.4253, two-sided Fisher exact p=0.001754
+  SSS assault tactics: standard=28.6%, pipeline=46.6%, odds ratio=2.1774, risk ratio=1.6293, two-sided Fisher exact p=0.125474
+  SSS verbal coercion: standard=60.0%, pipeline=58.6%, odds ratio=0.9444, risk ratio=0.9770, two-sided Fisher exact p=1.000000
+
+ROSS ET AL. (2024): DESCRIPTIVE REPORTED PREVALENCE CHANGES
+  Men: T1=30%, T2=47%, change=+17 pp
+  Women: T1=36%, T2=46%, change=+10 pp
+  The time, laboratory, mode and pipeline conditions were confounded.
+
+HYPOTHETICAL POWER CURVE — TWO-SIDED INDEPENDENT-GROUPS t TEST
+  d=0.25, alpha=0.05, equal group sizes; NOT the power of a published factorial model.
+  n per group= 25: power=13.94%
+  n per group= 80: power=34.91%
+  n per group=253: power=80.14%
+  Minimum group n for 80%: ceil(252.1275) = 253
+
+Data provenance and limits: see README.md and FIGURE_AND_CLAIM_MAP.md.

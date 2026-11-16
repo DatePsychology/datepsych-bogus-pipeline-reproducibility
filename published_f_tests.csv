@@ -1,0 +1,6 @@
+study,contrast,F,df1,df2,published_p_display,reported_model,source_doi
+Fisher (2013),Condition main effect (partners),0.71,1,284,0.40,Covariate-adjusted factorial model,https://doi.org/10.1007/s11199-013-0266-3
+Fisher (2013),Sex by condition interaction (partners),4.57,1,284,0.033,Covariate-adjusted factorial model,https://doi.org/10.1007/s11199-013-0266-3
+Fisher (2013),Sex difference within pipeline (simple effect),6.94,1,284,0.009,Follow-up simple-effects comparison,https://doi.org/10.1007/s11199-013-0266-3
+Tourangeau et al. (1997),Past-five-year partners (transformed),4.01,1,103,p<0.05,Square-root-transformed adjusted analysis,https://doi.org/10.1111/j.1559-1816.1997.tb00629.x
+Tourangeau et al. (1997),Lifetime partners (transformed),4.42,1,103,p<0.05,Square-root-transformed adjusted analysis,https://doi.org/10.1111/j.1559-1816.1997.tb00629.x

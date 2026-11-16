@@ -1,0 +1,5 @@
+sex,timepoint,prevalence_percent,source_location,source_doi
+Men,Time 1 online,30,Reported prevalence summary,https://doi.org/10.1080/13552600.2022.2100933
+Men,Time 2 laboratory pipeline,47,Reported prevalence summary,https://doi.org/10.1080/13552600.2022.2100933
+Women,Time 1 online,36,Reported prevalence summary,https://doi.org/10.1080/13552600.2022.2100933
+Women,Time 2 laboratory pipeline,46,Reported prevalence summary,https://doi.org/10.1080/13552600.2022.2100933

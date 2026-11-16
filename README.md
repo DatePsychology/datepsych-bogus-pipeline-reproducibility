@@ -1,4 +1,4 @@
-# Fake Lie Detectors and Sexual-Partner Counts — Reproducibility Materials
+# Fake Lie Detectors and Sexual Partner Counts — Reproducibility Materials
 
 **Code, transcribed published summary statistics, statistical checks, and four figures** accompanying a methodological review of Date Psychology's article [“Did a fake polygraph catch women lying about their sexual partner count?”](https://datepsychology.com/did-a-fake-polygraph-catch-women-lying-about-their-sexual-partner-count/).
 

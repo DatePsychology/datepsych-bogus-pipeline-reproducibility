@@ -1,8 +1,12 @@
-# Fake Lie Detectors and Sexual Partner Counts — Reproducibility Materials
+# Fake Lie Detectors and Sexual-Partner Counts — Reproducibility Materials
 
-**Code, transcribed published summary statistics, statistical checks, and four figures** accompanying a methodological review of Date Psychology's article [“Did a fake polygraph catch women lying about their sexual partner count?”](https://datepsychology.com/did-a-fake-polygraph-catch-women-lying-about-their-sexual-partner-count/).
+**Companion methodological review:** [“Can a Fake Lie Detector Reveal the Truth About Sexual Partner Counts?”](https://datepsych.substack.com/p/can-a-fake-lie-detector-reveal-the) (November 11, 2026). This repository contains the published-summary data, statistical checks, and four figures for **that specific article**.
 
-The [companion methodological review](https://datepsych.substack.com/p/can-a-fake-lie-detector-reveal-the/) examines what the bogus-pipeline experiments do—and do not—establish about sexual-history reporting. **This is a reproducibility package for the review's published-summary reconstructions, not a replication of the original studies using individual participant records.** Original microdata, analysis scripts, and verified partner histories were not available. Calculations from reported rounded figures cannot reproduce the source authors' full adjusted models.
+**Date Psychology article under review:** [“Did a fake polygraph catch women lying about their sexual partner count?”](https://datepsychology.com/did-a-fake-polygraph-catch-women-lying-about-their-sexual-partner-count/). This is the original piece critiqued by the companion Substack review, **not** the review itself.
+
+**Not the companion to:** [“Can We Trust Self-Reported Sexual Partner Counts?”](https://datepsych.substack.com/p/can-we-trust-self-reported-sexual). That is a separate, broader review and would require its own reproducibility package.
+
+The companion review examines what the bogus-pipeline experiments do—and do not—establish about sexual-history reporting. **This is a reproducibility package for the review's published-summary reconstructions, not a replication of the original studies using individual participant records.** Original microdata, analysis scripts, and verified partner histories were not available. Calculations from reported rounded figures cannot reproduce the source authors' full adjusted models.
 
 > **Name clarification:** “Date Psychology” refers to the author/website being reviewed. **Michele G. Alexander** is a different person: she coauthored the 2003 experiment with Terri D. Fisher.
 
@@ -65,6 +69,7 @@ Tested environment when preparing this package: Python 3; numpy 2.3.5, scipy 1.1
 
 ## Principal sources
 
+- Companion review, [“Can a Fake Lie Detector Reveal the Truth About Sexual Partner Counts?”](https://datepsych.substack.com/p/can-a-fake-lie-detector-reveal-the).
 - Date Psychology, [“Did a fake polygraph catch women lying about their sexual partner count?”](https://datepsychology.com/did-a-fake-polygraph-catch-women-lying-about-their-sexual-partner-count/).
 - Michele G. Alexander & Terri D. Fisher (2003), [“Truth and consequences: Using the bogus pipeline to examine sex differences in self-reported sexuality”](https://doi.org/10.1080/00224490309552164).
 - Terri D. Fisher (2013), [“Gender roles and pressure to be truthful: The bogus pipeline modifies gender differences in sexual but not non-sexual behavior”](https://doi.org/10.1007/s11199-013-0266-3).
@@ -73,5 +78,3 @@ Tested environment when preparing this package: Python 3; numpy 2.3.5, scipy 1.1
 - Ross, Machette & Gonzalez (2024; online 2022), [“Testing the reliability of sexual aggression self-reports”](https://doi.org/10.1080/13552600.2022.2100933).
 
 The full bibliography and interpretive discussion are in the companion article. **No copyrighted study PDFs or third-party webpages are redistributed.**
-
-
